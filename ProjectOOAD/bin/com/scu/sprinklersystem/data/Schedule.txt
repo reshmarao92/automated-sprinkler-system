@@ -1,0 +1,14 @@
+Sunday,20:00,21:00,2L/s
+
+Monday,07:00,14:00,2L/s
+
+Tuesday,16:00,11:00,8L/s
+
+Wednesday,16:00,18:00,9L/s
+
+Thursday,16:00,12:00,2L/s
+
+Friday,09:00,16:00,3L/s
+
+Saturday,03:00,04:00,5L/s
+
